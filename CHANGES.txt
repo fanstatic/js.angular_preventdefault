@@ -4,8 +4,7 @@ CHANGES
 1.0.3-2 (unreleased)
 ====================
 
-- Nothing changed yet.
-
+- Pick up changes in github.com:minddistrict/angular-prevent-default
 
 1.0.3 (unreleased)
 ===============================
